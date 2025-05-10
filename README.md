@@ -1,4 +1,8 @@
-# 🚀 Rusty KV Store
+# 🚀 Rusty KV Store (Deprecated repo)
+
+Refer to the official repo
+**Server** - https://github.com/rusty-org/rusty-kv
+**Cli** - https://github.com/rusty-org/rusty-kv-cli
 
 A Redis-compatible key-value store server implementation written in Rust.
 
